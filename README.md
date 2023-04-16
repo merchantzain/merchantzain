@@ -2,7 +2,7 @@
 
 I'm a computer scientist who enjoys working at the intersection of science and engineering.
 
-- 🎓 Currently an MS Computer Engineering student at Columbia University.
+- 🎓 Currently an [MS Computer Engineering](https://compeng.columbia.edu/) student at Columbia University.
 - 🚀 I work as a Flight Software Engineer at [NASA Langley Research Center](https://www.nasa.gov/).
 - 🔭 I'm interested in ML/RL applications, embedded systems, and making cool things.
 
