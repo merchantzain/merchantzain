@@ -2,11 +2,11 @@
 
 I'm a computer scientist who enjoys working at the intersection of science and engineering.
 
-- 🎓 I'm currently an MS Computer Engineering student at Columbia University.
+- 🎓 Currently an MS Computer Engineering student at Columbia University.
 - 🚀 I work as a Flight Software Engineer at [NASA Langley Research Center](https://www.nasa.gov/).
 - 🔭 I'm interested in ML/RL applications, embedded systems, and making cool things.
 
-Maybe one day I'll get around to writing something for my [blog](https://zain-merchant.com/blog.html).
+Maybe one day I'll get around to writing for my [blog](https://zain-merchant.com/blog.html).
 
 <!--
 **merchantzain/merchantzain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
